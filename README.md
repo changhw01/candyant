@@ -1,4 +1,4 @@
-candyant
+Candyant
 ========
 
 Project collaboration site.
